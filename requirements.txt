@@ -1,0 +1,5 @@
+customtkinter>=5.2.0
+yt-dlp>=2024.0.0
+plyer>=2.1.0
+CTkToolTip>=0.8
+pyinstaller>=6.0.0
