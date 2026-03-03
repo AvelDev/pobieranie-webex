@@ -2,6 +2,8 @@
 
 Prosta aplikacja GUI do masowego pobierania nagrań z Webex. Obsługuje nagrania zabezpieczone hasłem.
 
+![Webex Downloader Screenshot](screenshot.png)
+
 ## Funkcje
 
 - **Ciemny motyw** — nowoczesny interfejs CustomTkinter
